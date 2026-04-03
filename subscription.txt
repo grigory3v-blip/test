@@ -1,5 +1,5 @@
 #profile-title: base64:0JLQvtGCINC90L7QstGL0Lk=
-#profile-update-interval: 234
+#profile-update-interval: 22
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1806750694
 
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1#0043%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
